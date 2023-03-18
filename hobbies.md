@@ -6,5 +6,6 @@ Joseph likes video games, being outside, and has always enjoyed working with com
 
 ![Computer image](https://github.com/JosephAnders4/Midterm-project/blob/a7ab7ffdb7f495a3cf72afc26786140395658f0b/acomputerclipart.png "Computer")
 
-Joseph played the piano when he was younger. One of his favorite pieces to play was Fur Elise:
+Joseph played the piano when he was younger. One of his favorite pieces to play was Fur Elise:  
+
 [Fur Elise](https://www.youtube.com/watch?v=wfF0zHeU3Zs)

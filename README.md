@@ -1,5 +1,4 @@
-# Midterm-project
-Joseph Anders
+**Joseph Anders**
 =====================
 
 Welcome to the personal website of *Joseph Anders*.
@@ -10,4 +9,4 @@ Navigate any of the links below to explore:
 * [Hobbies](page4)
 * [insert](page5)
 
-You can click the Home link near the top of any of the above pages to return to this page.
+You can click the **Home** link near the top of any of the above pages to return to this page.

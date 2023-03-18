@@ -1,6 +1,8 @@
 Education
 =========
 
+[Back to Home](https://github.com/JosephAnders4/Midterm-project.git)  
+
 **High School**  
 
 Joseph graduated from Park Hill High School in May 2019 in the top 25% of his class.  

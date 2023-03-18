@@ -7,9 +7,9 @@ This website was created using Markdown. Markdown is a syntax that allows the cr
 
 You can also include blocks of code within these files, such as what is displayed below:
 
-    console.log("This is a code block.")
+    console.log("This is a code block.");
     function twoplustwo() {
-         var two1 = 2
-         var two2 = 2
-         return two1 + two2
+         var two1 = 2;
+         var two2 = 2;
+         return two1 + two2;
     }
